@@ -1,3 +1,3 @@
 # hotel-web
- simple web page
-html 5 css fully responsive
+Simple Web Page of a hotel; 
+HTML5, CSS, fully responsive design.
